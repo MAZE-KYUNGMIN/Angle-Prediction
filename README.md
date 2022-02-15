@@ -12,6 +12,7 @@
 문서 이미지의 각도를 예측하는 하는데 실패ㅠㅠ..
 이미지에 비해 너무 많은 레이블이 있는 것이 실패의 큰 요인중 하나라고 생각한다.   
 각도 예측을 할 때 딥러닝을 포함해서 총 3가지 방법을 생각해냈다.
-1.  minAreaRect() 함수를 통해 각도 예측
-https://i2.wp.com/theailearner.com/wp-content/uploads/2020/11/movie1-1.gif?resize=600%2C600&ssl=1
++ ### minAreaRect() 함수를 통해 각도 예측   
+![image](https://i2.wp.com/theailearner.com/wp-content/uploads/2020/11/movie1-1.gif?resize=600%2C600&ssl=1)   
++ ### 
 
