@@ -5,10 +5,12 @@
 ![image](https://user-images.githubusercontent.com/74346889/162189274-59db6b9d-0096-48c2-a2bf-aa5a322051e2.png)
 
 # 📑데이터 소개
-* ### **Train data** : 인공 합성 데이터 
+### 기업에서 제공 받은 데이터입니다.
+* ### Train data : 인공 합성 데이터 11860장
      
 ![image](https://user-images.githubusercontent.com/74346889/162192208-f715d1bf-5e52-4bdb-9cfc-4944483a81e3.png)
-![image](https://user-images.githubusercontent.com/74346889/162192242-eaf78396-7007-47d2-8c86-641cc7302130.png)
+![image](https://user-images.githubusercontent.com/74346889/162192242-eaf78396-7007-47d2-8c86-641cc7302130.png)  
+
 * ### **test data** : 실제 데이터  
   
 ![image](https://user-images.githubusercontent.com/74346889/162192843-7265bbb4-d814-4905-986c-77747df875f1.png)
